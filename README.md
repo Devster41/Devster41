@@ -4,7 +4,7 @@
 
 🎓 I'm a senior studying computer science at Purdue University
 
-:earth_africa: I'm from Lenexa, Kansas (Go Chiefs)
+:earth_africa: I'm from Lenexa, Kansas
 
 
 
